@@ -54,6 +54,7 @@ button{
     font-size: inherit;
     font-weight: bold;
     color: steelblue;
+    outline: none;
     letter-spacing: 0.2vh;
     transition: all 0.3s;
     -webkit-transition: all 0.3s;
